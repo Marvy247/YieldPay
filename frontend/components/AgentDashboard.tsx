@@ -488,7 +488,7 @@ if (agentBalanceNumber > 0) {
         <div className="text-center py-12 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl shadow-2xl text-white">
           <div className="flex justify-center items-center space-x-4 mb-4">
             <Bot className="h-12 w-12" />
-            <h1 className="text-4xl font-bold">Somnia AI Agent Dashboard</h1>
+            <h1 className="text-4xl font-bold">YieldPay AI Agent Dashboard</h1>
           </div>
           <p className="text-xl mb-6">Manage your autonomous DeFi agents and monitor real-time performance</p>
           <div className="flex justify-center space-x-4">
